@@ -7,6 +7,11 @@ Feel free to participate nad add additional features.
 such as different databases.
 
 
+NuGet
+=====
+[Package Link](https://www.nuget.org/packages/DBDockerizer)
+
+
 Usage
 =====
 
