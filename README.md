@@ -1,10 +1,9 @@
 # DBDockerizer
-Running SQLSERVER in Docker Container  during integration tests.
-With this libriray, whlie docker desktop is running
-you can create Sql Server in a Docker Container.
+
+This library allows developers to easily create and manage SQL Server containers within their development environment
+during integration tests whlie Docker Desktop is running
 Basicly, it runs Powershell Commands in order to create a container.
-Feel free to participate nad add additional features.
-such as different databases.
+Feel free to participate nad add additional features such as different databases :)
 
 
 NuGet
