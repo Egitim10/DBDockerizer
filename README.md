@@ -2,7 +2,7 @@
 
 This library allows developers to easily create and manage SQL Server containers within their development environment
 during integration tests whlie Docker Desktop is running
-Basicly, it runs Powershell Commands in order to create a container.
+Basicly; it runs Powershell Commands in order to create a container.
 Feel free to participate nad add additional features such as different databases :)
 
 
